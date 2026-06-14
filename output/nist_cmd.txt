@@ -1,0 +1,6 @@
+0
+output/nist_rng.txt
+1
+0
+10
+
