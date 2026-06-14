@@ -1,5 +1,5 @@
 # USTC_Cryptography_Project
-这是中科大密码学导论大作业的仓库。
+这是中科大密码学导论大作业的仓库，作者学号为PB24071451。
 
 部署时请使用解压到当前文件夹将experiments.zip解压。
 
